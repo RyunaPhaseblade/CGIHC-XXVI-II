@@ -15,4 +15,5 @@ GRUPO DE LABORATORIO: 13
 GRUPO DE TEORÍA: 6
 
 SEMESTRE 2026-2
+
 Repositorio para asignatura de Coputación Gráfica e Interacción Humano Computadora.
