@@ -1,2 +1,18 @@
 # CGIHC-XXVI-II
+## UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
+## FACULTAD DE INGENIERÍA
+### DIVISIÓN DE INGENIERÍA ELÉCTRICA
+### INGENIERÍA EN COMPUTACIÓN
+#### LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA
+##### Repositorio control de versiones
+
+NOMBRE COMPLETO: Rodriguez Zacarias Ivan
+
+Nº de Cuenta: 320340020
+
+GRUPO DE LABORATORIO: 13
+
+GRUPO DE TEORÍA: 6
+
+SEMESTRE 2026-2
 Repositorio para asignatura de Coputación Gráfica e Interacción Humano Computadora.
