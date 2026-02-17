@@ -4,9 +4,9 @@
 ### DIVISIÓN DE INGENIERÍA ELÉCTRICA
 ### INGENIERÍA EN COMPUTACIÓN
 #### LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA
-##### Repositorio control de versiones
+##### Práctica 1
 
-NOMBRE COMPLETO: Rodriguez Zacarias Ivan
+NOMBRE COMPLETO: Rodríguez Zacarias Ivan
 
 Nº de Cuenta: 320340020
 
@@ -16,4 +16,4 @@ GRUPO DE TEORÍA: 6
 
 SEMESTRE 2026-2
 
-Repositorio para asignatura de Coputación Gráfica e Interacción Humano Computadora.
+FECHA DE ENTREGA LÍMITE: 19 de Febrero de 2026
