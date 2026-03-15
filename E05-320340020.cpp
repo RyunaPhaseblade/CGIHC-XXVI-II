@@ -211,7 +211,7 @@ int main()
 		model = modelaux;
 		color = glm::vec3(0.0f, 1.0f, 0.0f);
 		model = glm::translate(model, glm::vec3(-0.8f, -0.5f, -0.45f));
-		model = glm::rotate(model, glm::radians(65.0f),glm::vec3(0.0f, 0.0f, 1.0f));
+		//model = glm::rotate(model, glm::radians(65.0f),glm::vec3(0.0f, 0.0f, 1.0f));
 		model = glm::rotate(model, glm::radians(mainWindow.getarticulacion1()), glm::vec3(0.0f, 0.0f, 1.0f));
 		model = glm::rotate(model, glm::radians(mainWindow.getarticulacion2()), glm::vec3(0.0f, 0.0f, 1.0f));
 		glUniform3fv(uniformColor, 1, glm::value_ptr(color));
@@ -222,7 +222,7 @@ int main()
 		model = modelaux;
 		color = glm::vec3(0.0f, 1.0f, 0.0f);
 		model = glm::translate(model, glm::vec3(-0.8f, -0.5f, 0.85f));
-		model = glm::rotate(model, glm::radians(65.0f), glm::vec3(0.0f, 0.0f, 1.0f));
+		//model = glm::rotate(model, glm::radians(65.0f), glm::vec3(0.0f, 0.0f, 1.0f));
 		model = glm::rotate(model, glm::radians(mainWindow.getarticulacion3()), glm::vec3(0.0f, 0.0f, 1.0f));
 		model = glm::rotate(model, glm::radians(mainWindow.getarticulacion4()), glm::vec3(0.0f, 0.0f, 1.0f));
 		glUniform3fv(uniformColor, 1, glm::value_ptr(color));
@@ -235,7 +235,7 @@ int main()
 		model = modelaux;
 		color = glm::vec3(1.0f, 1.0f, 0.0f);
 		model = glm::translate(model, glm::vec3(0.75f, 0.0f, -0.45f));
-		model = glm::rotate(model, glm::radians(65.0f), glm::vec3(0.0f, 0.0f, 1.0f));
+		//model = glm::rotate(model, glm::radians(65.0f), glm::vec3(0.0f, 0.0f, 1.0f));
 		model = glm::rotate(model, glm::radians(mainWindow.getarticulacion5()), glm::vec3(0.0f, 0.0f, 1.0f));
 		model = glm::rotate(model, glm::radians(mainWindow.getarticulacion6()), glm::vec3(0.0f, 0.0f, 1.0f));
 		glUniform3fv(uniformColor, 1, glm::value_ptr(color));
@@ -246,7 +246,7 @@ int main()
 		model = modelaux;
 		color = glm::vec3(1.0f, 1.0f, 0.0f);
 		model = glm::translate(model, glm::vec3(0.75f, 0.0f, 0.85f));
-		model = glm::rotate(model, glm::radians(65.0f), glm::vec3(0.0f, 0.0f, 1.0f));
+		//model = glm::rotate(model, glm::radians(65.0f), glm::vec3(0.0f, 0.0f, 1.0f));
 		model = glm::rotate(model, glm::radians(mainWindow.getart7()), glm::vec3(0.0f, 0.0f, 1.0f));
 		model = glm::rotate(model, glm::radians(mainWindow.getart8()), glm::vec3(0.0f, 0.0f, 1.0f));
 		glUniform3fv(uniformColor, 1, glm::value_ptr(color));
